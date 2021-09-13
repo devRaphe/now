@@ -1,0 +1,10 @@
+export 'repositories/auth/auth_impl.dart';
+export 'repositories/auth/auth_mock_impl.dart';
+export 'repositories/loan/loan_impl.dart';
+export 'repositories/loan/loan_mock_impl.dart';
+export 'repositories/notices/notices_impl.dart';
+export 'repositories/notices/notices_mock_impl.dart';
+export 'repositories/payment/payment_impl.dart';
+export 'repositories/payment/payment_mock_impl.dart';
+export 'repositories/setup/setup_impl.dart';
+export 'repositories/setup/setup_mock_impl.dart';

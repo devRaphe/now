@@ -1,0 +1,100 @@
+{
+  "accounts": [
+    {
+      "id": 2,
+      "user_id": 4,
+      "account_bank": "Access Bank",
+      "bank_code": "044",
+      "account_name": "Toby Okeke",
+      "account_number": "0690000031",
+      "account_verified": 0,
+      "created_at": "2020-03-05 12:08:13",
+      "updated_at": "2020-03-05 12:08:13",
+      "is_default": 1
+    },
+    {
+      "id": 3,
+      "user_id": 4,
+      "account_bank": "Access Bank",
+      "bank_code": "044",
+      "account_name": "Forrest Green",
+      "account_number": "0690000031",
+      "account_verified": 0,
+      "created_at": "2020-03-05 19:47:09",
+      "updated_at": "2020-03-05 19:47:09",
+      "is_default": 0
+    },
+    {
+      "id": 4,
+      "user_id": 4,
+      "account_bank": "Access Bank",
+      "bank_code": "044",
+      "account_name": "Forrest Green",
+      "account_number": "0690000031",
+      "account_verified": 0,
+      "created_at": "2020-03-05 19:49:07",
+      "updated_at": "2020-03-05 19:49:07",
+      "is_default": 0
+    },
+    {
+      "id": 5,
+      "user_id": 4,
+      "account_bank": "Access Bank",
+      "bank_code": "044",
+      "account_name": "Forrest Green",
+      "account_number": "0690000031",
+      "account_verified": 0,
+      "created_at": "2020-03-06 12:45:12",
+      "updated_at": "2020-03-06 12:45:12",
+      "is_default": 0
+    },
+    {
+      "id": 6,
+      "user_id": 4,
+      "account_bank": "Access Bank",
+      "bank_code": "044",
+      "account_name": "Forrest Green",
+      "account_number": "0690000031",
+      "account_verified": 0,
+      "created_at": "2020-03-06 14:21:50",
+      "updated_at": "2020-03-06 14:21:50",
+      "is_default": 0
+    },
+    {
+      "id": 7,
+      "user_id": 4,
+      "account_bank": "Access Bank",
+      "bank_code": "044",
+      "account_name": "Forrest Green",
+      "account_number": "0690000031",
+      "account_verified": 0,
+      "created_at": "2020-03-06 14:29:00",
+      "updated_at": "2020-03-06 14:29:00",
+      "is_default": 0
+    },
+    {
+      "id": 8,
+      "user_id": 4,
+      "account_bank": "Access Bank",
+      "bank_code": "044",
+      "account_name": "Forrest Green",
+      "account_number": "0690000031",
+      "account_verified": 0,
+      "created_at": "2020-03-06 23:34:40",
+      "updated_at": "2020-03-06 23:34:40",
+      "is_default": 0
+    },
+    {
+      "id": 9,
+      "user_id": 4,
+      "account_bank": "Access Bank",
+      "bank_code": "044",
+      "account_name": "Forrest Green",
+      "account_number": "0690000031",
+      "account_verified": 0,
+      "created_at": "2020-03-07 21:08:39",
+      "updated_at": "2020-03-07 21:08:39",
+      "is_default": 0
+    }
+  ]
+}

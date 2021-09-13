@@ -1,0 +1,313 @@
+{
+  "banks": [
+    {
+      "id": 1,
+      "code": "044",
+      "name": "Access Bank",
+      "imageUrl":"https://place-hold.it/32x32",
+      "is_mobile_verified": null,
+      "branches": null
+    },
+    {
+      "id": 2,
+      "code": "023",
+      "name": "Citi Bank",
+      "imageUrl": "https://place-hold.it/32x32",
+      "is_mobile_verified": null,
+      "branches": null
+    },
+    {
+      "id": 4,
+      "code": "050",
+      "name": "EcoBank PLC",
+      "imageUrl": "https://place-hold.it/32x32",
+      "is_mobile_verified": null,
+      "branches": null
+    },
+    {
+      "id": 5,
+      "code": "011",
+      "name": "First Bank PLC",
+      "imageUrl": "https://place-hold.it/32x32",
+      "is_mobile_verified": null,
+      "branches": null
+    },
+    {
+      "id": 6,
+      "code": "214",
+      "name": "First City Monument Bank",
+      "imageUrl": "https://place-hold.it/32x32",
+      "is_mobile_verified": null,
+      "branches": null
+    },
+    {
+      "id": 7,
+      "code": "070",
+      "name": "Fidelity Bank",
+      "imageUrl": "https://place-hold.it/32x32",
+      "is_mobile_verified": null,
+      "branches": null
+    },
+    {
+      "id": 8,
+      "code": "058",
+      "name": "Guaranty Trust Bank",
+      "imageUrl": "https://place-hold.it/32x32",
+      "is_mobile_verified": null,
+      "branches": null
+    },
+    {
+      "id": 9,
+      "code": "076",
+      "name": "Polaris bank",
+      "imageUrl": "https://place-hold.it/32x32",
+      "is_mobile_verified": null,
+      "branches": null
+    },
+    {
+      "id": 10,
+      "code": "221",
+      "name": "Stanbic IBTC Bank",
+      "imageUrl": "https://place-hold.it/32x32",
+      "is_mobile_verified": null,
+      "branches": null
+    },
+    {
+      "id": 11,
+      "code": "068",
+      "name": "Standard Chaterted bank PLC",
+      "imageUrl": "https://place-hold.it/32x32",
+      "is_mobile_verified": null,
+      "branches": null
+    },
+    {
+      "id": 12,
+      "code": "232",
+      "name": "Sterling Bank PLC",
+      "imageUrl": "https://place-hold.it/32x32",
+      "is_mobile_verified": null,
+      "branches": null
+    },
+    {
+      "id": 13,
+      "code": "033",
+      "name": "United Bank for Africa",
+      "imageUrl": "https://place-hold.it/32x32",
+      "is_mobile_verified": null,
+      "branches": null
+    },
+    {
+      "id": 14,
+      "code": "032",
+      "name": "Union Bank PLC",
+      "imageUrl": "https://place-hold.it/32x32",
+      "is_mobile_verified": null,
+      "branches": null
+    },
+    {
+      "id": 15,
+      "code": "035",
+      "name": "Wema Bank PLC",
+      "imageUrl": "https://place-hold.it/32x32",
+      "is_mobile_verified": null,
+      "branches": null
+    },
+    {
+      "id": 16,
+      "code": "057",
+      "name": "Zenith bank PLC",
+      "imageUrl": "https://place-hold.it/32x32",
+      "is_mobile_verified": null,
+      "branches": null
+    },
+    {
+      "id": 17,
+      "code": "215",
+      "name": "Unity Bank PLC",
+      "imageUrl": "https://place-hold.it/32x32",
+      "is_mobile_verified": null,
+      "branches": null
+    },
+    {
+      "id": 18,
+      "code": "101",
+      "name": "ProvidusBank PLC",
+      "imageUrl": "https://place-hold.it/32x32",
+      "is_mobile_verified": null,
+      "branches": null
+    },
+    {
+      "id": 183,
+      "code": "082",
+      "name": "Keystone Bank",
+      "imageUrl": "https://place-hold.it/32x32",
+      "is_mobile_verified": null,
+      "branches": null
+    },
+    {
+      "id": 184,
+      "code": "301",
+      "name": "Jaiz Bank",
+      "imageUrl": "https://place-hold.it/32x32",
+      "is_mobile_verified": null,
+      "branches": null
+    },
+    {
+      "id": 186,
+      "code": "030",
+      "name": "Heritage Bank",
+      "imageUrl": "https://place-hold.it/32x32",
+      "is_mobile_verified": null,
+      "branches": null
+    },
+    {
+      "id": 231,
+      "code": "100",
+      "name": "Suntrust Bank",
+      "imageUrl": "https://place-hold.it/32x32",
+      "is_mobile_verified": null,
+      "branches": null
+    },
+    {
+      "id": 252,
+      "code": "608",
+      "name": "FINATRUST MICROFINANCE BANK",
+      "imageUrl": "https://place-hold.it/32x32",
+      "is_mobile_verified": null,
+      "branches": null
+    },
+    {
+      "id": 253,
+      "code": "090175",
+      "name": "Rubies Microfinance Bank",
+      "imageUrl": "https://place-hold.it/32x32",
+      "is_mobile_verified": null,
+      "branches": null
+    },
+    {
+      "id": 254,
+      "code": "090267",
+      "name": "Kuda",
+      "imageUrl": "https://place-hold.it/32x32",
+      "is_mobile_verified": null,
+      "branches": null
+    },
+    {
+      "id": 258,
+      "code": "090115",
+      "name": "TCF MFB",
+      "imageUrl": "https://place-hold.it/32x32",
+      "is_mobile_verified": null,
+      "branches": null
+    },
+    {
+      "id": 259,
+      "code": "400001",
+      "name": "FSDH Merchant Bank",
+      "imageUrl": "https://place-hold.it/32x32",
+      "is_mobile_verified": null,
+      "branches": null
+    },
+    {
+      "id": 260,
+      "code": "502",
+      "name": "Rand merchant Bank",
+      "imageUrl": "https://place-hold.it/32x32",
+      "is_mobile_verified": null,
+      "branches": null
+    },
+    {
+      "id": 301,
+      "code": "784",
+      "name": "Globus Bank",
+      "imageUrl": "https://place-hold.it/32x32",
+      "is_mobile_verified": null,
+      "branches": null
+    }
+  ],
+  "work_status": [
+    "Employee",
+    "Business Owner"
+  ],
+  "industry": [
+    "IT",
+    "Engineering"
+  ],
+  "occupation": [
+    "Doctor",
+    "Lawyer",
+    "Software Developer"
+  ],
+  "heard_from": [
+    "facebook",
+    "twitter",
+    "instagram",
+    "friend",
+    "newspaper",
+    "billboard",
+    "lamp post",
+    "other"
+  ],
+  "states": [
+    "Abuja",
+    "Lagos",
+    "Kaduna"
+  ],
+  "cities": [
+    {
+      "name": "Abuja",
+      "items": [
+        "Maitama",
+        "Wuse 2"
+      ]
+    },
+    {
+      "name": "Lagos",
+      "items": [
+        "Ajah",
+        "Ikoyi"
+      ]
+    }
+  ],
+  "relationships": [
+    "Brother",
+    "Sister",
+    "Father",
+    "Mother",
+    "Husband"
+  ],
+  "loan_reasons": [
+    "Pay Bills",
+    "Rent",
+    "Household Upkeep"
+  ],
+  "fees": {
+    "account_debit": {
+      "base": "65",
+      "percent": "0"
+    },
+    "bank_transfer": {
+      "base": "0",
+      "percent": "1.4"
+    },
+    "cards": [
+      {
+        "name": "paystack",
+        "base": "100",
+        "percent": "1.5"
+      },
+      {
+        "name": "flutterwave",
+        "base": "0",
+        "percent": "1.4"
+      },
+      {
+        "name": "quidpay",
+        "base": "30",
+        "percent": "1.45"
+      }
+    ]
+  },
+  "payment_url": "https://v2-staging.borome.ng/pay",
+  "public_key": "FLWPUBK-4cfaa76b46cad4090715fed06f0271ef-X"
+}

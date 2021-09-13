@@ -1,0 +1,46 @@
+{
+  "notifications": {
+    "current_page": 1,
+    "data": [
+      {
+        "id": 1,
+        "staff_id": 1,
+        "user_id": 4,
+        "title": "Title Demo",
+        "content": "Boredom Description ",
+        "images": [],
+        "is_read": 0,
+        "from": null,
+        "sent_by": "system",
+        "created_at": "2020-10-09 11:12:24",
+        "updated_at": null,
+        "read_at": null
+      },
+      {
+        "id": 2,
+        "staff_id": 1,
+        "user_id": 4,
+        "title": "Title Demo II",
+        "content": "Boredom Description ",
+        "images": [],
+        "is_read": 0,
+        "from": null,
+        "requesting_files": true,
+        "sent_by": "system",
+        "created_at": "2020-10-09 11:12:24",
+        "updated_at": null,
+        "read_at": null
+      }
+    ],
+    "first_page_url": "https://boromeapi.gurus.ng/api/v1/notifications?page=1",
+    "from": null,
+    "last_page": 1,
+    "last_page_url": "https://boromeapi.gurus.ng/api/v1/notifications?page=1",
+    "next_page_url": null,
+    "path": "https://boromeapi.gurus.ng/api/v1/notifications",
+    "per_page": 30,
+    "prev_page_url": null,
+    "to": null,
+    "total": 0
+  }
+}

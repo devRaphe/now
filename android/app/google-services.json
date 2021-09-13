@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "478015530075",
+    "firebase_url": "https://borome-a8ad8.firebaseio.com",
+    "project_id": "borome-a8ad8",
+    "storage_bucket": "borome-a8ad8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478015530075:android:7195b78d81aa26c8188b7e",
+        "android_client_info": {
+          "package_name": "ng.borome.apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478015530075-47r6ivehn5pv09n1nrneqgrnmo7u05n0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ng.borome.apps",
+            "certificate_hash": "340c105bfb160160b65d584cf97fe4a554e34898"
+          }
+        },
+        {
+          "client_id": "478015530075-rguja5iu6nr49q7oru82k6a680v2ij5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQdu_4oyLxG-9joAaDiaOtWgDftEGEb6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478015530075-rguja5iu6nr49q7oru82k6a680v2ij5j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478015530075-b48slbrqb62huovt1orbtds9dke9oibu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ng.borome.ios.mock"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478015530075:android:7bfedf407b99563e188b7e",
+        "android_client_info": {
+          "package_name": "ng.borome.apps.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478015530075-rguja5iu6nr49q7oru82k6a680v2ij5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQdu_4oyLxG-9joAaDiaOtWgDftEGEb6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478015530075-rguja5iu6nr49q7oru82k6a680v2ij5j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478015530075-b48slbrqb62huovt1orbtds9dke9oibu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ng.borome.ios.mock"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478015530075:android:c0151ad6d375ea90188b7e",
+        "android_client_info": {
+          "package_name": "ng.borome.apps.mock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478015530075-rguja5iu6nr49q7oru82k6a680v2ij5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQdu_4oyLxG-9joAaDiaOtWgDftEGEb6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478015530075-rguja5iu6nr49q7oru82k6a680v2ij5j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478015530075-b48slbrqb62huovt1orbtds9dke9oibu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ng.borome.ios.mock"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478015530075:android:69bcd5d6580becc7188b7e",
+        "android_client_info": {
+          "package_name": "ng.borome.apps.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478015530075-rguja5iu6nr49q7oru82k6a680v2ij5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQdu_4oyLxG-9joAaDiaOtWgDftEGEb6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478015530075-rguja5iu6nr49q7oru82k6a680v2ij5j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478015530075-b48slbrqb62huovt1orbtds9dke9oibu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ng.borome.ios.mock"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

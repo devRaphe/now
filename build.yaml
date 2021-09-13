@@ -1,0 +1,11 @@
+targets:
+  $default:
+    builders:
+      built_value_generator:built_value:
+        generate_for:
+          - lib/domain/models/*.dart
+          - lib/store/*.dart
+      freezed:
+        generate_for:
+          - lib/domain/models/*.dart
+          - lib/store/**.dart

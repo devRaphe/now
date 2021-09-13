@@ -1,0 +1,12 @@
+export 'add_file_page.dart';
+export 'change_password_page.dart';
+export 'contact_information_page.dart';
+export 'file_group_details_page.dart';
+export 'my_bank_page.dart';
+export 'my_files_page.dart';
+export 'next_of_kin_page.dart';
+export 'personal_information_page.dart';
+export 'profile_page.dart';
+export 'profile_photo_page.dart';
+export 'work_details_page.dart';
+export 'work_id_page.dart';

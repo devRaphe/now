@@ -1,0 +1,5 @@
+#include "Defaults.xcconfig"
+
+BUNDLE_NAME = Staging
+BUNDLE_ID_APPEND = .staging
+VERSION_APPEND = -staging

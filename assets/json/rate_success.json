@@ -1,0 +1,6 @@
+{
+  "min_rate": 4000,
+  "max_rate": 9600,
+  "min_duration_days": 10,
+  "max_duration_days": 90
+}

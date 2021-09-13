@@ -1,0 +1,9 @@
+export 'coordinators/auth_coordinator.dart';
+export 'coordinators/coordinator.dart';
+export 'coordinators/coordinator_base.dart';
+export 'coordinators/loan_coordinator.dart';
+export 'coordinators/notification_coordinator.dart';
+export 'coordinators/payments_coordinator.dart';
+export 'coordinators/profile_coordinator.dart';
+export 'coordinators/services_coordinator.dart';
+export 'coordinators/shared_coordinator.dart';
