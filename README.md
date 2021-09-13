@@ -1,8 +1,4 @@
-# borome
 
-![Format, Analyze and Test](https://github.com/jogboms/borome/workflows/Format,%20Analyze%20and%20Test/badge.svg?branch=master)
-
-> See `makefile` for run scripts
 
 A few resources to get you started if this is your first Flutter project:
 
